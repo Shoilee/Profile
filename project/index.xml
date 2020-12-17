@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Sarah Shoilee</title>
+    <link>https://shoilee.github.io/Profile/project/</link>
+    <description>Recent content in Projects on Sarah Shoilee</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://shoilee.github.io/Profile/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Knowledge Discovery on Spreadsheet using Semantic Information</title>
+      <link>https://shoilee.github.io/Profile/project/thesis/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shoilee.github.io/Profile/project/thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of digital platform to empower healthy lifestyle</title>
+      <link>https://shoilee.github.io/Profile/project/user-experience/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shoilee.github.io/Profile/project/user-experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>San Francisco Taxi network data analysis using Hadoop and Spark</title>
+      <link>https://shoilee.github.io/Profile/project/taxi-network/</link>
+      <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shoilee.github.io/Profile/project/taxi-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of different artificial neural network &amp; Deep learning techniques</title>
+      <link>https://shoilee.github.io/Profile/project/deep-learning/</link>
+      <pubDate>Sat, 25 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shoilee.github.io/Profile/project/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance analysis between logistic regression and very large decision tree</title>
+      <link>https://shoilee.github.io/Profile/project/algorithms/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://shoilee.github.io/Profile/project/algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image class prediction and pixel-wise image segmentation</title>
+      <link>https://shoilee.github.io/Profile/project/computer-vision/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://shoilee.github.io/Profile/project/computer-vision/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
