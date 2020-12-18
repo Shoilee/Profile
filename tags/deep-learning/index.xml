@@ -18,7 +18,12 @@
       <pubDate>Sat, 25 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://shoilee.github.io/Profile/project/deep-learning/</guid>
-      <description></description>
+      <description>&lt;ul&gt;
+&lt;li&gt;Experimentation with different setting, hyperparameter tuninig and analyzing the nature of algorithm&lt;/li&gt;
+&lt;li&gt;Technniques: Hopfield Network, Time-series Prediction, RNN, LSTM, PCA, Autoencoders, CNN, Restriced Boltzmann Machines, Deep Boltzmann Machines, GAN&lt;/li&gt;
+&lt;li&gt;Tool: Matlab, Python (Library: Keras, TensorFlow)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -27,7 +32,13 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://shoilee.github.io/Profile/project/computer-vision/</guid>
-      <description></description>
+      <description>&lt;ul&gt;
+&lt;li&gt;Image class prediction and pixel-wise image segmentation&lt;/li&gt;
+&lt;li&gt;Technique: Auto-encoder, Classifier(VGG-16), Convolutional neural network and convolutional transpose(FC-16)&lt;/li&gt;
+&lt;li&gt;Language: Python&lt;/li&gt;
+&lt;li&gt;Library: Keras, TensorFlow, OpenCV&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>

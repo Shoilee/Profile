@@ -18,7 +18,10 @@
       <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://shoilee.github.io/Profile/project/thesis/</guid>
-      <description></description>
+      <description>&lt;p&gt;Abstract: For data processing and maintenance, a spreadsheet is the most widely used tools amongst corporations. Performing in-depth research on spreadsheets remains critical to enabling knowledge discovery as well as improving user efficiency and supporting error-free data processing. Further research in this field is essential, considering the sheer expanse and the importance of tabular data in the data community, despite the number of existing works in the area. This thesis proposes an algorithm for tabular constraint learning using semantic header information, focusing on enhancing existing tabular constraint learner (TaCLe). The proposed solution will rediscover lost formulas on a poorly filed spreadsheet while conceptually analysing the header. The proposal of the header interpretation assists to recapture formulas faster with more accuracy than the previous solution , overall improving the computational performance.&lt;/p&gt;
+&lt;p&gt;Furthermore, this research outlines the usability of header information come along with tabular data, often ignored due to its complex structure. The study further
+proposes a formula reconstruction application, empirically validating each step of the design decision . This technique will not only b e capable of formula rediscovery but also for formula suggestion, error-correction, and auto-completion in a spreadsheet environment when integrated with a right interaction model.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -27,7 +30,12 @@
       <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://shoilee.github.io/Profile/project/taxi-network/</guid>
-      <description></description>
+      <description>&lt;ul&gt;
+&lt;li&gt;Trip analysis from fragmented trip segments and revenue generation&lt;/li&gt;
+&lt;li&gt;Technique: Map-reduce framework in both Hadoop and spark environment.&lt;/li&gt;
+&lt;li&gt;Language: Java&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -36,7 +44,12 @@
       <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>https://shoilee.github.io/Profile/project/algorithms/</guid>
-      <description></description>
+      <description>&lt;ul&gt;
+&lt;li&gt;Class prediction&lt;/li&gt;
+&lt;li&gt;Logistic Regression &amp;amp; Very Large Decision Tree&lt;/li&gt;
+&lt;li&gt;Language: Java&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>
